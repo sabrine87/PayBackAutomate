@@ -23,7 +23,9 @@ class CouponTest: ScenarioTest<Filter, Rewe, ActivateCoupon>() {
     fun CouponTest() {
         wait = WebDriverWait(driver?.let { it },
             Duration.ofSeconds(10))
-
+        given().go_to_filter_page(driver, wait!!)
+        `when`().go_to_rewe(driver, wait!!)
+        then().activate_first_coupon(driver, wait!!)
     }
 
     @After
