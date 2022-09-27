@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CouponTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-22T10:34:53" hostname="MacBook-Air-de-iplabel.local" time="21.959">
+  <properties/>
+  <testcase name="CouponTest" classname="CouponTest" time="21.959"/>
+  <system-out><![CDATA[
+?[1mTest Class: ?[22mCouponTest
+
+ ?[1mCoupon test?[22m
+
+
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+sept. 22, 2022 11:35:04 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFOS: Detected dialect: W3C
+]]></system-err>
+</testsuite>

@@ -1,0 +1,27 @@
+{
+  "className": "CouponTest",
+  "name": "Coupon",
+  "scenarios": [
+    {
+      "className": "CouponTest",
+      "testMethodName": "CouponTest",
+      "description": "Coupon test",
+      "tagIds": [],
+      "explicitParameters": [],
+      "derivedParameters": [],
+      "scenarioCases": [
+        {
+          "caseNr": 1,
+          "steps": [],
+          "explicitArguments": [],
+          "derivedArguments": [],
+          "status": "SUCCESS",
+          "durationInNanos": 21660880000
+        }
+      ],
+      "casesAsTable": false,
+      "durationInNanos": 21660880000
+    }
+  ],
+  "tagMap": {}
+}

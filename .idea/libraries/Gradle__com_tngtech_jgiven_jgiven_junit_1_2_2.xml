@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tngtech.jgiven:jgiven-junit:1.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tngtech.jgiven/jgiven-junit/1.2.2/ee6953d9ef07836720f9baaac0eeb60088e23fff/jgiven-junit-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tngtech.jgiven/jgiven-junit/1.2.2/a032fe2cf37be962191a28d3ee85be9166171482/jgiven-junit-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
